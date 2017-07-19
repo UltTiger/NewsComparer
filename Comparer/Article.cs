@@ -16,12 +16,20 @@ namespace ComparerAPI
         public Article() { }
         public Article(string data)
         {
+            //Data being article in some form
 
+            baseText = data;
         }
 
         public Topics GetTopics()
         {
             Topics results = new Topics();
+
+            string[] wordList = baseText.Split(null);
+            for (int i=0; i<wordList.Length; i++)
+            {
+                results.AddWord(wordList[i]);
+            }
 
             return results;
         }

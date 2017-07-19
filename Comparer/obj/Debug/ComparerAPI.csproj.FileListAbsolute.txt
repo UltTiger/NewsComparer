@@ -1,0 +1,5 @@
+D:\Programming\Projects\NewsComparer\Comparer\bin\Debug\Comparer.dll
+D:\Programming\Projects\NewsComparer\Comparer\bin\Debug\Comparer.pdb
+D:\Programming\Projects\NewsComparer\Comparer\obj\Debug\ComparerAPI.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\NewsComparer\Comparer\obj\Debug\Comparer.dll
+D:\Programming\Projects\NewsComparer\Comparer\obj\Debug\Comparer.pdb

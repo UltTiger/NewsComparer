@@ -1,1 +1,8 @@
 D:\Programming\Projects\NewsComparer\Tester\bin\Debug\Tester.exe.config
+D:\Programming\Projects\NewsComparer\Tester\bin\Debug\Tester.exe
+D:\Programming\Projects\NewsComparer\Tester\bin\Debug\Tester.pdb
+D:\Programming\Projects\NewsComparer\Tester\bin\Debug\Comparer.dll
+D:\Programming\Projects\NewsComparer\Tester\bin\Debug\Comparer.pdb
+D:\Programming\Projects\NewsComparer\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\NewsComparer\Tester\obj\Debug\Tester.exe
+D:\Programming\Projects\NewsComparer\Tester\obj\Debug\Tester.pdb
