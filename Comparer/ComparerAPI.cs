@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tester
+namespace ComparerAPI
 {
-    class Program
+    public class ComparerAPI
     {
-        static void Main(string[] args)
+        public float GetSimilarity( Article art1, Article art2 )
         {
-            ComparerAPI.Article a1 = new ComparerAPI.Article();
+            return 0.0f;
         }
     }
 }
