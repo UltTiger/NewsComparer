@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace ComparerAPI
 {
-    public class ComparerAPI
+    public class Core
     {
-        public float GetSimilarity( Article art1, Article art2 )
+        public static float GetSimilarity( Article art1, Article art2 )
         {
             return 0.0f;
         }

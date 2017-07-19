@@ -13,6 +13,12 @@ namespace ComparerAPI
         public List<string> originalTags = new List<string>();
         public string baseText;
 
+        public Article() { }
+        public Article(string data)
+        {
+
+        }
+
         public Topics GetTopics()
         {
             Topics results = new Topics();

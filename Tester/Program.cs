@@ -11,6 +11,9 @@ namespace Tester
         static void Main(string[] args)
         {
             ComparerAPI.Article a1 = new ComparerAPI.Article();
+            ComparerAPI.Article a2 = new ComparerAPI.Article();
+
+            float res = ComparerAPI.Core.GetSimilarity(a1, a2);
         }
     }
 }
